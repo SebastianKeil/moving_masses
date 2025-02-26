@@ -10,3 +10,6 @@ It uses the p5.js library.
 ## Running
 
 Just download the repository and open the index.html in a browser.
+
+
+![image](https://github.com/user-attachments/assets/e6a06625-c81e-4ebb-836b-c9515e4cd12d)
